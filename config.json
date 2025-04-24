@@ -1,0 +1,16 @@
+{
+    "source": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Bsvv1809",
+      "database": "md_manage"
+    },
+    "destination": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Bsvv1809",
+      "database": "md_manage2"
+    },
+    "table": "users"
+  }
+  
